@@ -2,7 +2,7 @@
 body {
     margin: 0px;
     font-family: "Source Sans Pro","Spin-Cycle-OT";
-    background: url('../css_advanced/images/background.png');
+    background: url('/images/background.png');
     background-repeat: no-repeat;
 }
 
@@ -292,7 +292,7 @@ blockquote{
 .behind-play{
     width: 260px;
     height: 140px;
-    background-image: url('../css_advanced/images/videos_img1.png');
+    background-image: url('/images/videos_img1.png');
     border-radius: 5px 5px 0px 0px;
     background-size: cover;
     background-position: center;
@@ -301,7 +301,7 @@ blockquote{
 .behind-play2{
     width: 260px;
     height: 140px;
-    background-image: url('../css_advanced/images/videos_img2.png');
+    background-image: url('/images/videos_img2.png');
     border-radius: 5px 5px 0px 0px;
     background-size: cover;
     background-position: center;
@@ -311,7 +311,7 @@ blockquote{
 .behind-play3{
     width: 260px;
     height: 140px;
-    background-image: url('../css_advanced/images/videos_img3.png');
+    background-image: url('/images/videos_img3.png');
     border-radius: 5px 5px 0px 0px;
     background-size: cover;
     background-position: center;
@@ -320,7 +320,7 @@ blockquote{
 .behind-play4{
     width: 260px;
     height: 140px;
-    background-image: url('../css_advanced/images/videos_img4.png');
+    background-image: url('/images/videos_img4.png');
     border-radius: 5px 5px 0px 0px;
     background-size: cover;
     background-position: center;
@@ -475,6 +475,12 @@ footer {
     align-items: center;
     color: aliceblue;
 }
+
+
+.smile-logo > img{
+    margin-right: 26px;
+}
+
 
 
 .smile-logo > img{
