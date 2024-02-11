@@ -21,4 +21,4 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - How does the browser load a webpage
 
 
-![image](../html_advanced/images/readme1.jpg)
+![image](/images/readme1.jpg)
